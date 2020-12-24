@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<QE>
+<Segment id="Pin">
+<Setting id="B20" value="LCD0_DATA16"/>
+<Setting id="Y9" value="TXCLKOUTP"/>
+<Setting id="E20" value="RIIC1SCL"/>
+<Setting id="C22" value="RIIC1SDA"/>
+<Setting id="W9" value="TXOUT1M"/>
+<Setting id="D20" value="PD_6"/>
+<Setting id="C21" value="PD_7"/>
+<Setting id="G20" value="LCD0_DATA20"/>
+<Setting id="H21" value="LCD0_DATA23"/>
+<Setting id="K2" value="LCD0_CLK"/>
+<Setting id="F22" value="LCD0_DATA19"/>
+<Setting id="G21" value="LCD0_DATA21"/>
+<Setting id="J21" value="LCD0_TCON1"/>
+<Setting id="J20" value="LCD0_TCON0"/>
+<Setting id="M20" value="P6_0"/>
+<Setting id="L22" value="LCD0_TCON2"/>
+<Setting id="C1" value="LCD0_DATA1"/>
+<Setting id="P21" value="P6_7"/>
+<Setting id="AA7" value="TXOUT0P"/>
+<Setting id="A9" value="LCD0_DATA4"/>
+<Setting id="AA8" value="TXOUT2P"/>
+<Setting id="AA9" value="TXCLKOUTM"/>
+<Setting id="P3" value="PK_5"/>
+<Setting id="D11" value="LCD0_DATA5"/>
+<Setting id="B14" value="LCD0_DATA6"/>
+<Setting id="D14" value="LCD0_DATA8"/>
+<Setting id="A16" value="RxD4"/>
+<Setting id="C15" value="TxD4"/>
+<Setting id="C14" value="LCD0_DATA7"/>
+<Setting id="B17" value="LCD0_DATA10"/>
+<Setting id="D16" value="LCD0_DATA11"/>
+<Setting id="C17" value="LCD0_DATA12"/>
+<Setting id="L4" value="LCD0_EXTCLK"/>
+<Setting id="D15" value="LCD0_DATA9"/>
+<Setting id="B18" value="LCD0_DATA13"/>
+<Setting id="B19" value="LCD0_DATA15"/>
+<Setting id="C19" value="LCD0_DATA18"/>
+<Setting id="D17" value="LCD0_DATA17"/>
+<Setting id="F4" value="LCD0_DATA0"/>
+<Setting id="H19" value="LCD0_DATA22"/>
+<Setting id="M19" value="P6_6"/>
+<Setting id="D9" value="LCD0_DATA2"/>
+<Setting id="B8" value="LCD0_DATA3"/>
+<Setting id="AB7" value="TXOUT0M"/>
+<Setting id="AB8" value="TXOUT2M"/>
+<Setting id="A20" value="LCD0_DATA14"/>
+<Setting id="Y8" value="TXOUT1P"/>
+</Segment>
+<Segment id="Device">
+<Setting id="Series" value="RZA"/>
+<Setting id="Group" value="RZA2M"/>
+<Setting id="PartNo" value="R7S921053"/>
+<Setting id="PinCount" value="324"/>
+</Segment>
+<Segment id="Component">
+<Setting id="stb" value="FIT"/>
+<Setting id="scifa4" value="FIT"/>
+<Setting id="cache" value="FIT"/>
+<Setting id="intc" value="FIT"/>
+<Setting id="cbuffer0" value="FIT"/>
+<Setting id="mipi" value="FIT"/>
+<Setting id="rvapi" value="FIT"/>
+<Setting id="ostm_reserved" value="FIT"/>
+<Setting id="os_abstraction_freertos" value="FIT"/>
+<Setting id="ceu" value="FIT"/>
+<Setting id="iodefine" value="FIT"/>
+<Setting id="vdc" value="FIT"/>
+<Setting id="mmu" value="FIT"/>
+<Setting id="riic3" value="FIT"/>
+<Setting id="riic2" value="FIT"/>
+<Setting id="runtime_stats_timer" value="FIT"/>
+<Setting id="cpg" value="FIT"/>
+<Setting id="jcu" value="FIT"/>
+<Setting id="gpio" value="FIT"/>
+</Segment>
+</QE>

@@ -1,0 +1,3 @@
+GR-MANGO_food_menu_recognition.elf: ../generate/linker_script.ld
+
+# vim:noexpandtab:
