@@ -4,3 +4,6 @@ Open source software used in this package and licenses of them are shown as foll
 - FreeRTOSTM is a trade mark of Amazon Web Services, Inc.
 - FreeRTOS is used under MIT license described in following site:
    https://www.freertos.org/a00114.html
+
+- TFLM(TensorFlow lite micro) is used under the license described in following site:
+    https://www.apache.org/licenses/LICENSE-2.0
