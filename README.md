@@ -1,8 +1,7 @@
 ﻿# What is rza2m-food-recognition-demo
-Food recognition demonstration program performed by DRP enabled RZ/A2M  
-Document is below.  
-&nbsp;[(en)0.GR-MANGO AI GUIDE](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(en)e-AI_next_step_package_doc/0.GR-MANGO_AI_guide_Rev1.0.pdf)  
-&nbsp;[(jp)0.GR-MANGO AI GUIDE](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(jp)e-AI_next_step_package_doc/0.GR-MANGO%E3%81%A7AI%E3%82%AC%E3%82%A4%E3%83%89_Rev1.0.pdf)  
+Food recognition demonstration program performed by DRP enabled RZ/A2M   
+&nbsp;0.GR-MANGO AI GUIDE [(en)](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(en)e-AI_next_step_package_doc/0.GR-MANGO_AI_guide_Rev1.0.pdf)
+&nbsp;[(jp)](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(jp)e-AI_next_step_package_doc/0.GR-MANGO%E3%81%A7AI%E3%82%AC%E3%82%A4%E3%83%89_Rev1.0.pdf)  
 
 ## Appeal point  
 High Speed  
@@ -15,14 +14,12 @@ Beginner-friendly
  This demonstration is all done on a Windows PC, including AI learning.  
 
 ## How to run the demonstration  
-Document is below.  
-&nbsp;[(en)1.GR-MANGO AI beginner's guide](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(en)e-AI_next_step_package_doc/1.GR-MANGO_AI_beginner's_guide_Rev1.0.pdf)  
-&nbsp;[(JP)1.GR-MANGO AI beginner's guide](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(jp)e-AI_next_step_package_doc/1.GR-MANGO%E3%81%A7AI_%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E3%82%BA%E3%82%AC%E3%82%A4%E3%83%89_Rev1.0.pdf)  
+&nbsp;1.GR-MANGO AI beginner's guide [(en)](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(en)e-AI_next_step_package_doc/1.GR-MANGO_AI_beginner's_guide_Rev1.0.pdf)
+&nbsp;[(jp)](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(jp)e-AI_next_step_package_doc/1.GR-MANGO%E3%81%A7AI_%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E3%82%BA%E3%82%AC%E3%82%A4%E3%83%89_Rev1.0.pdf)  
 
 ## How to customize the demonstration  
-Document is below.  
-&nbsp;[(en)2.GR-MANGO AI customerzation guide](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(en)e-AI_next_step_package_doc/2.GR-MANGO_AI_customization_guide_Rev1.0.pdf)  
-&nbsp;[(jp)2.GR-MANGO AI customerzation guide](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(jp)e-AI_next_step_package_doc/2.GR-MANGO%E3%81%A7AI_%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%82%AC%E3%82%A4%E3%83%89Rev1.0.pdf)  
+&nbsp;2.GR-MANGO AI customerzation guide  [(en)](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(en)e-AI_next_step_package_doc/2.GR-MANGO_AI_customization_guide_Rev1.0.pdf)
+&nbsp;[(jp)](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(jp)e-AI_next_step_package_doc/2.GR-MANGO%E3%81%A7AI_%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%82%AC%E3%82%A4%E3%83%89Rev1.0.pdf)  
 
 ## Q&A
 Under planning  
