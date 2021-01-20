@@ -22,7 +22,5 @@ Beginner-friendly
 &nbsp;[(jp)](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(jp)e-AI_next_step_package_doc/2.GR-MANGO%E3%81%A7AI_%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%82%AC%E3%82%A4%E3%83%89Rev1.0.pdf)  
 
 ## Q&A
-Under planning  
-We have a plan creating the community room.  
-Please use Issue until it is opened.　　
-&nbsp;[Issue](https://github.com/renesas-rz/rza2m-food-recognition-demo/issues)  
+Please contact us below if you have any questions.　
+&nbsp;[Q&A Forum](https://renesasrulz.com/rz/rz-a2m-drp/f/rz-a2m-and-drp-forum)  
