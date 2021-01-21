@@ -43,8 +43,8 @@ const char* kCategoryLabels[kCategoryCount] = {
 const char* kCategoryPrices[kCategoryCount] = {
 "400yen/4dollars/3euros",
 "500yen/5dollars/4euros",
+"100yen/1dollar/1euro",
 "400yen/4dollars/4euros",
-"100yen/1dollars/1euros",
 "300yen/3dollars/3euros",
 "300yen/3dollars/3euros",
 "500yen/5dollars/4euros",

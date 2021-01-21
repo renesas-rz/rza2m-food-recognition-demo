@@ -79,8 +79,12 @@ TfLiteTensor* input = nullptr;
 constexpr int kTensorArenaSize = 800 * 1024;   /* model 30 int */
 static uint8_t tensor_arena[kTensorArenaSize] __attribute__ ((aligned(16)));
 }  // namespace
-
+#undef DEMO_MODE
+#ifdef  DEMO_MODE
 static uint8_t buf[80] __attribute__ ((section("Graphics_OCTA_RAM")));
+#else
+static uint8_t buf[80];
+#endif /* DEMO_MODE */
 
 void inference_exec()
 {

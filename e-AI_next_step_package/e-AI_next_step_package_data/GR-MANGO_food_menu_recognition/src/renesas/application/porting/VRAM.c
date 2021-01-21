@@ -50,9 +50,13 @@ Private global variables and functions
 /***********************************************************************
 * Variable: gs_FrameBufferMemory
 ************************************************************************/
+#undef DEMO_MODE
+#ifdef  DEMO_MODE
 __attribute__ ((section ("Graphics_OCTA_RAM")))
 static uint8_t gs_FrameBufferMemory[ (800*600*4)+0x10000 ];
-
+#else
+static uint8_t gs_FrameBufferMemory[128*128*3];
+#endif /* DEMO_MODE */
 /***********************************************************************
 * Function Name: R_SAMPLE_GetVRAM
 ************************************************************************/

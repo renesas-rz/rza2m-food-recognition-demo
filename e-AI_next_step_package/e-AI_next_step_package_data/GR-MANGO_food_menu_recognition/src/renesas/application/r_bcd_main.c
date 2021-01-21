@@ -147,7 +147,11 @@ extern uint8_t g_drp_simple_isp_colcal_3dnr_6[];
 Exported global variables
 **********************************************************************************************************************/
 /* demo mode */
+#ifdef  DEMO_MODE
+bool       demo_mode = true;               /* false:CAMERA Input On, true:CAMERA Input Off(Jpeg Image) */
+#else
 bool       demo_mode = false;               /* false:CAMERA Input On, true:CAMERA Input Off(Jpeg Image) */
+#endif /* DEMO_MODE */
 uint_t     cpu_drp_sel = 1;                 /* 0: Inference by CPU, 1: Inference by DRP */
 
 /* Jpeg image number when demo_mode is a Jpeg image */
@@ -179,11 +183,19 @@ static r_bcd_ae_setting_t ae_setting;
 /* Terminal window escape sequences */
 static const char_t * const sp_clear_screen = "\x1b[2J";
 static const char_t * const sp_cursor_home  = "\x1b[H";
+#ifdef  DEMO_MODE
 static uint8_t buf[80] __attribute__ ((section("Graphics_OCTA_RAM")));
-
+#else
+static uint8_t buf[80];
+#endif /* DEMO_MODE */
 /* Image buffer */
+#ifdef  DEMO_MODE
 static uint8_t image_buff[256*256*2]  __attribute__ ((section("Video_OCTA_RAM")));
 static uint8_t image_rgb_out[256*256*3] __attribute__ ((section("Video_OCTA_RAM")));
+#else
+static uint8_t image_buff[256*256*2];
+static uint8_t image_rgb_out[256*256*3];
+#endif /* DEMO_MODE */
 static uint8_t *image_argb_out;
 
 /* key status */
