@@ -1,5 +1,6 @@
 ﻿# What is rza2m-food-recognition-demo
 Food recognition demonstration program performed by DRP enabled RZ/A2M   
+&nbsp;![sample](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/CustomDemoImage.png)  
 &nbsp;0.GR-MANGO AI GUIDE [(en)](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(en)e-AI_next_step_package_doc/0.GR-MANGO_AI_guide_Rev1.0.pdf)
 &nbsp;[(jp)](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(jp)e-AI_next_step_package_doc/0.GR-MANGO%E3%81%A7AI%E3%82%AC%E3%82%A4%E3%83%89_Rev1.0.pdf)  
 
