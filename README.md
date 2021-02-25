@@ -14,6 +14,9 @@ Low Cost
 Beginner-friendly  
  This demonstration is all done on a Windows PC, including AI learning.  
 
+## Quick start
+&nbsp;You can try with only **Drag & Drop** the binary [Get binary](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_data/GR-MANGO_food_menu_recognition/HardwareDebug/GR-MANGO_food_menu_recognition.bin) 
+
 ## How to run the demonstration  
 &nbsp;1.GR-MANGO AI beginner's guide [(en)](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(en)e-AI_next_step_package_doc/1.GR-MANGO_AI_beginner's_guide.pdf)
 &nbsp;[(jp)](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(jp)e-AI_next_step_package_doc/0.GR-MANGO%E3%81%A7AI%E3%82%AC%E3%82%A4%E3%83%89.pdf)  
