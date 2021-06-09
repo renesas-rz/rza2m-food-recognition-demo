@@ -23,7 +23,7 @@ Beginner-friendly
 
 ## How to customize the demonstration  
 &nbsp;2.GR-MANGO AI customerzation guide  [(en)](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(en)e-AI_next_step_package_doc/2.GR-MANGO_AI_customization_guide.pdf)
-&nbsp;[(jp)](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(jp)e-AI_next_step_package_doc/1.GR-MANGO%E3%81%A7AI_%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E3%82%BA%E3%82%AC%E3%82%A4%E3%83%89.pdf)  
+&nbsp;[(jp)](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_doc/(jp)e-AI_next_step_package_doc/2.GR-MANGO%E3%81%A7AI_%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%82%AC%E3%82%A4%E3%83%89.pdf)  
 
 ## Q&A
 Please contact us below if you have any questions.　
